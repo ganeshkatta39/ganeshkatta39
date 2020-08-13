@@ -22,6 +22,6 @@
   <img alt='instagram' src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40"/>
 </a>
 
-<a href='https://www.linkedin.com/in/ganesh-katta-922a811b3/'>
+<a href='https://www.linkedin.com/in/ganeshkatta39/'>
   <img alt='linkedin' src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40"/>
 </a>
