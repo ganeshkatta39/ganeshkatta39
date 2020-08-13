@@ -8,26 +8,27 @@
 - ⚡ Fun fact: ... i am 18
 -->
 
+&nbsp;&nbsp;
 
 
 ## You can find me at
 <a href='mailto:ganeshkatta39@gmail.com'>
-  <img alt='gmail' src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40"/>
+  <img alt='gmail' src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" title="G-mail"/>
 </a>
 
 <a href='https://github.com/ganeshkatta39'>
-  <img alt='github' src="https://img.pngio.com/github-logo-icon-of-glyph-style-available-in-svg-png-eps-ai-github-icon-png-256_256.png" width="40"/>
+  <img alt='github' src="https://img.pngio.com/github-logo-icon-of-glyph-style-available-in-svg-png-eps-ai-github-icon-png-256_256.png" width="40" title="GitHub"/>
 </a>
 
 <a href='https://instagram.com/ganeshkatta39'>
-  <img alt='instagram' src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40"/>
+  <img alt='instagram' src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40" title="Instagram"/>
 </a>
 
 <a href='https://www.linkedin.com/in/ganeshkatta39/'>
-  <img alt='linkedin' src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40"/>
+  <img alt='linkedin' src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40" title="Linkedin"/>
 </a>
 
-
+&nbsp;&nbsp;
 
 ## Tech I know
 <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -41,3 +42,21 @@
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+
+
+## My Projects
+### Back-ground generator
+<a href='https://github.com/ganeshkatta39/background-generator'>
+  <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
+</a>
+<a href='https://ganeshkatta39.github.io/background-generator/'>
+  <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+</a>&nbsp;&nbsp;  
+
+### Robo-friends
+<a href='https://github.com/ganeshkatta39/robo-friends'>
+  <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
+</a>
+<a href='https://ganeshkatta39.github.io/robo-friends/'>
+  <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+</a>&nbsp;&nbsp;
