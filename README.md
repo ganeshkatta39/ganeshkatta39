@@ -54,7 +54,7 @@
   <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
 </a>&nbsp;&nbsp;  
 
-### Robo-friends
+### <img src="https://img.icons8.com/pastel-glyph/22/000000/robot-2--v2.png"/> Robo-friends
 <a href='https://github.com/ganeshkatta39/robo-friends'>
   <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
 </a>
