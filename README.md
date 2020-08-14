@@ -46,7 +46,7 @@
 
 
 ## My Projects
-### Back-ground generator
+### <img src="https://img.icons8.com/metro/22/000000/sheet-of-paper.png"/> Back-ground generator
 <a href='https://github.com/ganeshkatta39/background-generator'>
   <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
 </a>
