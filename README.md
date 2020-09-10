@@ -46,7 +46,16 @@
 
 
 ## My Projects
-### <img src="https://img.icons8.com/metro/20/000000/sheet-of-paper.png"/>  Back-ground generator
+
+### Under progress:
+#### <img src="https://img.icons8.com/metro/20/000000/pokedex.png"/>  Poke-dex's
+<a href='https://gktech3.netlify.app/'>
+  <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+</a>&nbsp;&nbsp;  
+
+### Completed:
+
+#### <img src="https://img.icons8.com/metro/20/000000/sheet-of-paper.png"/>  Back-ground generator
 <a href='https://github.com/ganeshkatta39/background-generator'>
   <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
 </a>
@@ -54,7 +63,7 @@
   <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
 </a>&nbsp;&nbsp;  
 
-### <img src="https://img.icons8.com/pastel-glyph/20/000000/robot-2--v2.png"/>  Robo-friends
+#### <img src="https://img.icons8.com/pastel-glyph/20/000000/robot-2--v2.png"/>  Robo-friends
 <a href='https://github.com/ganeshkatta39/robo-friends'>
   <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
 </a>
