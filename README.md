@@ -70,3 +70,13 @@
 <a href='https://ganeshkatta39.github.io/robo-friends/'>
   <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
 </a>&nbsp;&nbsp;
+
+### Others
+
+#### A webpage
+<a href='https://gktech.netlify.app/'>
+
+  <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+
+</a>&nbsp;&nbsp;
+
