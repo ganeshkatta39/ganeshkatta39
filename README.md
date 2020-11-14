@@ -52,17 +52,17 @@
 
 #### <img src="https://img.icons8.com/ios/16/000000/image.png"/> Image Classifier using mobile net model.
 <a href='https://gktech5.netlify.app'>
- <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
+ <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp;  
 
 #### <img src="https://img.icons8.com/ios/16/000000/3d-select--v1.png"/> Object detector using coco ssd model.
 <a href='https://gktech6.netlify.app'>
- <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
+ <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp; 
 
 #### <img src="https://img.icons8.com/ios/16/000000/hard-to-find.png"/> Maze Generator.
 <a href='https://gktech6.netlify.app'>
- <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
+ <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp; 
 
 #### <img src="https://img.icons8.com/metro/16/000000/sheet-of-paper.png"/> Back-ground generator
@@ -84,19 +84,19 @@
 ### Under progress:
 #### <img src="https://img.icons8.com/metro/16/000000/pokedex.png"/> Poke-dex's
 <a href='https://gktech3.netlify.app/'>
-  <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
+  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp;  
 
 #### <img src="https://img.icons8.com/pastel-glyph/16/000000/space-shuttle--v1.png"/> basic space-invader game
 <a href='https://gktech4.netlify.app/'>
-  <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
+  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp;
 
 ### Others
 
 #### <img src="https://img.icons8.com/carbon-copy/16/000000/domain.png"/> A webpage
 <a href='https://gktech.netlify.app/'>
-<img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
+<img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 
 </a>&nbsp;&nbsp;
 
