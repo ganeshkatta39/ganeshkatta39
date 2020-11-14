@@ -47,18 +47,23 @@
 
 ## My Projects
 
-### Under progress:
-#### <img src="https://img.icons8.com/metro/20/000000/pokedex.png"/>  Poke-dex's
-<a href='https://gktech3.netlify.app/'>
-  <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+### Completed:
+
+#### Image Classifier using mobile net model.
+<a href='https://gktech5.netlify.app'>
+ <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
 </a>&nbsp;&nbsp;  
 
-#### basic space-invader game
-<a href='https://gktech4.netlify.app/'>
-  <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
-</a>&nbsp;&nbsp;
+#### Object detector using coco ssd model.
+<a href='https://gktech6.netlify.app'>
+ <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+</a>&nbsp;&nbsp; 
 
-### Completed:
+#### Maze Generator.
+<a href='https://gktech6.netlify.app'>
+ <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+</a>&nbsp;&nbsp; 
+
 #### <img src="https://img.icons8.com/metro/20/000000/sheet-of-paper.png"/>  Back-ground generator
 <a href='https://github.com/ganeshkatta39/background-generator'>
   <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
@@ -72,6 +77,17 @@
   <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
 </a>
 <a href='https://ganeshkatta39.github.io/robo-friends/'>
+  <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+</a>&nbsp;&nbsp;
+
+### Under progress:
+#### <img src="https://img.icons8.com/metro/20/000000/pokedex.png"/>  Poke-dex's
+<a href='https://gktech3.netlify.app/'>
+  <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
+</a>&nbsp;&nbsp;  
+
+#### basic space-invader game
+<a href='https://gktech4.netlify.app/'>
   <img alt='site' src="https://www.kindpng.com/picc/m/36-364957_ugg-transparent-logo-website-png-png-download.png" width="30" title="Website"/>
 </a>&nbsp;&nbsp;
 
