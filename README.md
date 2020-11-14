@@ -66,7 +66,7 @@
 
 #### <img src="https://img.icons8.com/metro/16/000000/sheet-of-paper.png"/> Back-ground generator
 <a href='https://github.com/ganeshkatta39/background-generator'>
-  <img alt='github repo' src="https://image.flaticon.com/icons/png/512/37/37819.png" width="30" title="GitHub repo"/>
+  <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
 </a>
 <a href='https://ganeshkatta39.github.io/background-generator/'>
  <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
@@ -93,9 +93,12 @@
 
 ### Others
 
-#### A webpage
+#### <img src="https://img.icons8.com/carbon-copy/16/000000/domain.png"/> A webpage
 <a href='https://gktech.netlify.app/'>
 <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 
 </a>&nbsp;&nbsp;
-
+<p align="center"> 
+  No of visitors<br>
+  <img src="(https://profile-counter.glitch.me/ganeshkatta39/count.svg" />
+</p>
