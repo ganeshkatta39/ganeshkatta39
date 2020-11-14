@@ -13,17 +13,13 @@
 ## You can find me at
 <a href='mailto:ganeshkatta39@gmail.com'>
   <img alt='Gmail' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" title="Gmail"/>
-
 </a>
-
 <a href='https://github.com/ganeshkatta39'>
    <img alt='GitHub' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" title="GitHub"/>
 </a>
-
 <a href='https://instagram.com/ganeshkatta39'>
    <img alt='Instagram' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram"/>
 </a>
-
 <a href='https://www.linkedin.com/in/ganeshkatta39/'>
    <img alt='Linkedin' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="Linkedin"/>
 </a>
@@ -55,18 +51,18 @@
 ### Completed:
 
 #### <img src="https://img.icons8.com/ios/16/000000/image.png"/> Image Classifier using mobile net model.
-<a href='https://gktech5.netlify.app'>x
- <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
+<a href='https://gktech5.netlify.app'>
+ <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
 </a>&nbsp;&nbsp;  
 
 #### <img src="https://img.icons8.com/ios/16/000000/3d-select--v1.png"/> Object detector using coco ssd model.
 <a href='https://gktech6.netlify.app'>
- <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
+ <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
 </a>&nbsp;&nbsp; 
 
 #### <img src="https://img.icons8.com/ios/16/000000/hard-to-find.png"/> Maze Generator.
 <a href='https://gktech6.netlify.app'>
- <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
+ <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
 </a>&nbsp;&nbsp; 
 
 #### <img src="https://img.icons8.com/metro/16/000000/sheet-of-paper.png"/> Back-ground generator
@@ -88,22 +84,19 @@
 ### Under progress:
 #### <img src="https://img.icons8.com/metro/16/000000/pokedex.png"/> Poke-dex's
 <a href='https://gktech3.netlify.app/'>
-  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
+  <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
 </a>&nbsp;&nbsp;  
 
 #### <img src="https://img.icons8.com/pastel-glyph/16/000000/space-shuttle--v1.png"/> basic space-invader game
 <a href='https://gktech4.netlify.app/'>
-  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
+  <img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
 </a>&nbsp;&nbsp;
 
 ### Others
 
 #### <img src="https://img.icons8.com/carbon-copy/16/000000/domain.png"/> A webpage
 <a href='https://gktech.netlify.app/'>
-<img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
+<img alt='site' src="https://img.shields.io/badge/website-open-red" title="Website"/>
 
 </a>&nbsp;&nbsp;
-<p align="center"> 
-  No of visitors<br>
- <img src="https://komarev.com/ghpvc/?username=ganeshkatta39&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkatta39" />
-</p>
+
