@@ -61,7 +61,7 @@
 </a>&nbsp;&nbsp; 
 
 #### <img src="https://img.icons8.com/ios/16/000000/hard-to-find.png"/> Maze Generator.
-<a href='https://gktech6.netlify.app'>
+<a href='https://gktech7.netlify.app'>
  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp; 
 
