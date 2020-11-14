@@ -7,25 +7,25 @@
 - 📫 How to reach me: ...  ganeshkatta39@gmail.com
 - ⚡ Fun fact: ... i am 18
 -->
-
 &nbsp;  
 
 
 ## You can find me at
 <a href='mailto:ganeshkatta39@gmail.com'>
-  <img alt='gmail' src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" title="G-mail"/>
+  <img alt='Gmail' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" title="Gmail"/>
+
 </a>
 
 <a href='https://github.com/ganeshkatta39'>
-  <img alt='github' src="https://img.pngio.com/github-logo-icon-of-glyph-style-available-in-svg-png-eps-ai-github-icon-png-256_256.png" width="40" title="GitHub"/>
+   <img alt='GitHub' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" title="GitHub"/>
 </a>
 
 <a href='https://instagram.com/ganeshkatta39'>
-  <img alt='instagram' src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40" title="Instagram"/>
+   <img alt='Instagram' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram"/>
 </a>
 
 <a href='https://www.linkedin.com/in/ganeshkatta39/'>
-  <img alt='linkedin' src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40" title="Linkedin"/>
+   <img alt='Linkedin' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="Linkedin"/>
 </a>
 
 &nbsp;&nbsp;
@@ -45,12 +45,17 @@
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
 
+## Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshkatta39&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkatta39" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshkatta39&show_icons=true&locale=en" alt="ganeshkatta39" /></p>
+
+
 ## My Projects
 
 ### Completed:
 
 #### <img src="https://img.icons8.com/ios/16/000000/image.png"/> Image Classifier using mobile net model.
-<a href='https://gktech5.netlify.app'>
+<a href='https://gktech5.netlify.app'>x
  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp;  
 
@@ -100,5 +105,5 @@
 </a>&nbsp;&nbsp;
 <p align="center"> 
   No of visitors<br>
-  <img src="(https://profile-counter.glitch.me/ganeshkatta39/count.svg" />
+ <img src="https://komarev.com/ghpvc/?username=ganeshkatta39&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkatta39" />
 </p>
