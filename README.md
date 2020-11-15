@@ -61,9 +61,20 @@
 </a>&nbsp;&nbsp; 
 
 #### <img src="https://img.icons8.com/ios/16/000000/hard-to-find.png"/> Maze Generator.
+<a href='https://github.com/ganeshkatta39/maze-generator'>
+  <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
+</a>
 <a href='https://gktech7.netlify.app'>
  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp; 
+
+#### <img src="https://img.icons8.com/windows/16/000000/tree.png"/> Fractal tree.
+<a href='https://github.com/ganeshkatta39/fractal-tree'>
+  <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
+</a>
+<a href='https://ganeshkatta39.github.io/fractal-tree/'>
+ <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
+</a>&nbsp;&nbsp;
 
 #### <img src="https://img.icons8.com/metro/16/000000/sheet-of-paper.png"/> Back-ground generator
 <a href='https://github.com/ganeshkatta39/background-generator'>
@@ -88,6 +99,9 @@
 </a>&nbsp;&nbsp;  
 
 #### <img src="https://img.icons8.com/pastel-glyph/16/000000/space-shuttle--v1.png"/> basic space-invader game
+<a href='https://github.com/ganeshkatta39/space-invaders'>
+  <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
+</a>
 <a href='https://gktech4.netlify.app/'>
   <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp;
