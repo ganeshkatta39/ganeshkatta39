@@ -64,7 +64,7 @@
 <a href='https://github.com/ganeshkatta39/maze-generator'>
   <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
 </a>
-<a href='https://gktech7.netlify.app'>
+<a href='https://editor.p5js.org/ganeshkatta39/full/dYGVIT3-9'>
  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp; 
 
