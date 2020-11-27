@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img scr="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
@@ -76,11 +76,19 @@
  <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
 </a>&nbsp;&nbsp;
 
+#### <img src="https://img.icons8.com/fluent-systems-regular/16/000000/quote.png"/> Quote generator.
+<a href='https://github.com/ganeshkatta39/quote-generator'>
+  <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
+</a>
+<a href='https://ganeshkatta39.github.io/fractal-tree/'>
+ <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
+</a>&nbsp;&nbsp;
+
 #### <img src="https://img.icons8.com/metro/16/000000/sheet-of-paper.png"/> Back-ground generator
 <a href='https://github.com/ganeshkatta39/background-generator'>
   <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
 </a>
-<a href='https://ganeshkatta39.github.io/background-generator/'>
+<a href='https://ganeshkatta39.github.io/quote-generator/dist/'>
  <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
 </a>&nbsp;&nbsp;  
 
@@ -109,7 +117,7 @@
 ### Others
 
 #### <img src="https://img.icons8.com/carbon-copy/16/000000/domain.png"/> A webpage
-<a href='https://gktech.netlify.app/'>
+<a href='https://ganeshkatta39.github.io/portfolio-website/dist/index.html'>
 <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 
 </a>&nbsp;&nbsp;
