@@ -51,12 +51,12 @@
 ### Completed:
 
 #### <img src="https://img.icons8.com/ios/16/000000/image.png"/> Image Classifier using mobile net model.
-<a href='https://gktech5.netlify.app'>
+<a href='https://editor.p5js.org/ganeshkatta39/full/eYV7rnI4T'>
  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp;  
 
 #### <img src="https://img.icons8.com/ios/16/000000/3d-select--v1.png"/> Object detector using coco ssd model.
-<a href='https://gktech6.netlify.app'>
+<a href='https://editor.p5js.org/ganeshkatta39/full/P1E6D9wI4'>
  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp; 
 
