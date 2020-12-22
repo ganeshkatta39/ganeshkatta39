@@ -84,6 +84,14 @@
  <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
 </a>&nbsp;&nbsp;
 
+#### <img src="https://img.icons8.com/ios/16/000000/partly-cloudy-day--v1.png"/> Weather Predictor.
+<a href='https://github.com/ganeshkatta39/weather-app'>
+  <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
+</a>
+<a href='https://ganeshkatta39.github.io/weather-app/index.html'>
+ <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
+</a>&nbsp;&nbsp;
+
 #### <img src="https://img.icons8.com/metro/16/000000/sheet-of-paper.png"/> Back-ground generator
 <a href='https://github.com/ganeshkatta39/background-generator'>
   <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
