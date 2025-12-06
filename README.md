@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on ... improving my skills
-- 🌱 I’m currently learning ... JS, HTML, CSS, PYTHON
-- 💬 Ask me about ... ANYTHING
 - 📫 How to reach me: ...  ganeshkatta39@gmail.com
 -->
 &nbsp;  
@@ -59,11 +55,6 @@
  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp; 
 
-#### <img src="https://img.icons8.com/ios-filled/16/000000/list.png"/>Todo list using Django with database
-<a href='https://dj-list.herokuapp.com'>
- <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
-</a>&nbsp;&nbsp; 
-
 #### <img src="https://img.icons8.com/ios/16/000000/hard-to-find.png"/> Maze Generator.
 <a href='https://github.com/ganeshkatta39/maze-generator'>
   <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
@@ -77,14 +68,6 @@
   <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
 </a>
 <a href='https://ganeshkatta39.github.io/fractal-tree/'>
- <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
-</a>&nbsp;&nbsp;
-
-#### <img src="https://img.icons8.com/fluent-systems-regular/16/000000/quote.png"/> Quote generator.
-<a href='https://github.com/ganeshkatta39/quote-generator'>
-  <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
-</a>
-<a href='https://ganeshkatta39.github.io/quote-generator/dist/'>
  <img alt='site' src="https://img.shields.io/badge/github-page-blueviolet" title="Website"/>
 </a>&nbsp;&nbsp;
 
