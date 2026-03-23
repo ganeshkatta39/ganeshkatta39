@@ -45,21 +45,11 @@
 
 ### Completed:
 
-#### <img src="https://img.icons8.com/ios/16/000000/image.png"/> Image Classifier using mobile net model.
-<a href='https://editor.p5js.org/ganeshkatta39/full/eYV7rnI4T'>
- <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
-</a>&nbsp;&nbsp;  
-
-#### <img src="https://img.icons8.com/ios/16/000000/3d-select--v1.png"/> Object detector using coco ssd model.
-<a href='https://gktech6.netlify.app/'>
- <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
-</a>&nbsp;&nbsp; 
-
-#### <img src="https://img.icons8.com/ios/16/000000/hard-to-find.png"/> Maze Generator.
-<a href='https://github.com/ganeshkatta39/maze-generator'>
+#### <img src="https://img.icons8.com/ios/16/000000/hard-to-find.png"/> Music Trainer.
+<a href='https://github.com/ganeshkatta39/music_trainer'>
   <img alt='github repo' src="https://img.shields.io/badge/github-repo-brightgreen" title="GitHub repo"/>
 </a>
-<a href='https://editor.p5js.org/ganeshkatta39/full/dYGVIT3-9'>
+<a href='https://music-trainer-three.vercel.app/'>
  <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp; 
 
@@ -117,11 +107,6 @@
   <img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 </a>&nbsp;&nbsp;
 
-### Others
-
-#### <img src="https://img.icons8.com/carbon-copy/16/000000/domain.png"/> A webpage
-<a href='https://ganeshkatta39.github.io/portfolio-website/dist/index.html'>
-<img alt='site' src="https://img.shields.io/badge/website-open-blue" title="Website"/>
 
 </a>&nbsp;&nbsp;
 
